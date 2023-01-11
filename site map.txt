@@ -1,0 +1,11 @@
+
+desktop/tablet
+|_forsíða (index)
+  |_bókunarsíða (takki á index)
+    |_checkup (samningur/borga/passa þú ert þú)
+  |_um okkur (einkver texti um firirtækið)
+  |_aðstoð (hlutir um aðstoð
+
+mobile
+|_heimasíða(index og hvar allt er)
+
